@@ -1,0 +1,298 @@
+@keyframes eye-1 {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    25% {
+        transform: rotate(10deg);
+    }
+
+    50% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(-10deg);
+    }
+}
+
+@keyframes eye-2 {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    25% {
+        transform: rotate(10deg);
+    }
+
+    50% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(-10deg);
+    }
+}
+
+@keyframes nose {
+    0% {
+        transform: scale(1);
+    }
+
+    100% {
+        transform: scale(1.2);
+    }
+}
+
+@keyframes smile {
+    0% {
+        transform: scale(1);
+    }
+
+    100% {
+        transform: scale(1.3, 0.7);
+    }
+}
+
+@keyframes dice-1 {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    25% {
+        transform: rotate(10deg);
+    }
+
+    50% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(-10deg);
+    }
+}
+
+@keyframes dice-2 {
+    0% {
+        transform: rotate(10deg);
+    }
+
+    25% {
+        transform: rotate(5deg);
+    }
+
+    50% {
+        transform: rotate(-15deg);
+    }
+
+    100% {
+        transform: rotate(-10deg);
+    }
+}
+
+@keyframes dice-3 {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    25% {
+        transform: rotate(25deg);
+    }
+
+    50% {
+        transform: rotate(-75deg);
+    }
+
+    100% {
+        transform: rotate(100deg);
+    }
+}
+
+@keyframes dice-4 {
+    0% {
+        transform: rotate(25deg);
+    }
+
+    25% {
+        transform: rotate(50deg);
+    }
+
+    50% {
+        transform: rotate(100deg);
+    }
+
+    100% {
+        transform: rotate(75deg);
+    }
+}
+
+@keyframes rotation1 {
+    0% {
+        transform:rotate(0deg);
+    }
+    100% {
+        transform:rotate(360deg);
+    }
+}
+
+@keyframes rotation2 {
+    0% {
+        transform:rotate(0deg);
+    }
+    100% {
+        transform:rotate(-360deg);
+    }
+}
+
+@keyframes table-rotation {
+    0% {
+        transform:rotate(0deg);
+    }
+    100% {
+        transform:rotate(360deg);
+    }
+}
+
+@keyframes chip-rotation {
+    0% {
+        transform:rotate(0deg);
+    }
+    100% {
+        transform:rotate(-360deg);
+    }
+}
+
+@keyframes dice-5 {
+    0% {
+        transform: rotate(75deg);
+    }
+
+    25% {
+        transform: rotate(-75deg);
+    }
+
+    50% {
+        transform: rotate(25deg);
+    }
+
+    100% {
+        transform: rotate(50deg);
+    }
+}
+
+@keyframes dice-7 {
+    0% {
+        top: 201px;
+    }
+
+    100% {
+        top: 995px;
+    }
+}
+
+@keyframes dice-8 {
+    0% {
+        top: 995px;
+    }
+
+    100% {
+        top: 201px;
+    }
+}
+
+@keyframes dice-7-ad {
+    0% {
+        top: 829px;
+        right: 644px;
+    }
+
+    100% {
+        top: 829px;
+        right: 14px;
+    }
+}
+
+@keyframes dice-8-ad {
+    0% {
+        top: 989px;
+        right: 14px;
+    }
+
+    100% {
+        top: 989px;
+        right: 644px;
+    }
+}
+
+@keyframes dice-7-ad-ph {
+    0% {
+        top: 829px;
+        right: 299px;
+    }
+
+    100% {
+        top: 829px;
+        right: 10px;
+    }
+}
+
+@keyframes dice-8-ad-ph {
+    0% {
+        top: 989px;
+        right: 10px;
+    }
+
+    100% {
+        top: 989px;
+        right: 299px;
+    }
+}
+
+@keyframes lever-left {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    50% {
+        transform: rotate(140deg);
+    }
+
+    100% {
+        transform: rotate(0deg);
+    }
+}
+
+@keyframes lever-right {
+    0% {
+        transform: rotate(-140deg);
+    }
+
+    50% {
+        transform: rotate(-30deg);
+    }
+
+    100% {
+        transform: rotate(-140deg);
+    }
+}
+
+@keyframes greenmove {
+    0% {
+        transform: translateX(-10%);
+    }
+
+    100% {
+        transform: translateX(-30%);
+    } 
+}
+
+@keyframes whitemove {
+    0% {
+        transform: translateX(-30%);
+    }
+
+
+    100% {
+        transform: translateX(-10%);
+    } 
+}

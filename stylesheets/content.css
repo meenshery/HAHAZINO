@@ -1,0 +1,659 @@
+/* fonts */
+
+@font-face {
+    font-family: 'Monoid';
+    src: url('../fonts/Monoid-Regular.ttf') format('TrueType');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monoid';
+    src: url('../fonts/Monoid-Regular.ttf') format('TrueType');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* html */
+
+html {
+    width: 100%;
+}
+
+::selection {
+    background-color: #1A841ADE;
+}
+
+body {
+    display: block;
+    font-family: 'Monoid';
+    background-color: black;
+}
+
+p {
+    color: white;
+}
+
+.container {
+    max-width: 1920px;
+    overflow: hidden;
+    box-sizing: border-box;
+    position: relative;
+    margin: auto;
+}
+
+/* cover */
+
+.cover {
+    height: calc(100vw * (1266 / 1920));
+    background-image: url('../img/cover-big.jpg');
+    background-size: cover;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    width: 123px;
+    position: relative;
+    margin-left: 11px;
+    margin-top: 15px;
+}
+
+h3 {
+    width: 336px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    top: 15px;
+    right: -104px;
+}
+
+h1 {
+    font-size: calc(355*(100vw / 1920));
+    font-weight: 400;
+    line-height: 1;
+    z-index: 0;
+    position: absolute;
+    bottom: -28px;
+    background: url('../img/static-green.jpg');
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.man {
+    width: 1023px;
+    height: 682px;
+    z-index: 1;
+    position: absolute;
+    bottom: -3px;
+    right: 102px;
+}
+
+.eye-1 {
+    width: 152.029px;
+    height: 140.663px;
+    transform: rotate(-5.653deg);
+    z-index: 3;
+    position: absolute;
+    bottom: 367.05px;
+    right: 612.63px;
+    animation-name: eye-1;
+    animation-duration: 2s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+}
+
+.eye-2 {
+    width: 187.55px;
+    height: 144.925px;
+    transform: rotate(5.862deg);
+    z-index: 3;
+    position: absolute;
+    bottom: 344.59px;
+    right: 400.57px;
+    animation-name: eye-2;
+    animation-duration: 2s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+}
+
+.nose {
+    width: 151px;
+    height: 209px;
+    z-index: 2;
+    position: absolute;
+    bottom: 303px;
+    right: 527px;
+    animation-name: nose;
+    animation-duration: 4s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+}
+
+.smile {
+    width: 240.121px;
+    height: 217.387px;
+    z-index: 1;
+    position: absolute;
+    bottom: 150.12px;
+    right: 460.07px;
+    animation-name: smile;
+    animation-duration: 3s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+}
+
+/* about */
+
+.about {
+    height: calc(100vw * (878 / 1920));
+}
+
+.checked {
+    width: 769px;
+    height: 883px;
+    z-index: 0;
+    position: relative;
+    top: -10px;
+}
+
+.rectangle-1 {
+    z-index: 1;
+    position: absolute;
+    top: 67px;
+    left: 88px;
+    
+}
+
+.under-card {
+    width: 449px;
+    height: 602px;
+    color: #000;
+    font-size: 32px;
+    font-weight: 700;
+    z-index: 2;
+    position: absolute;
+    top: 103px;
+    left: 109px;
+}
+
+.card {
+    width: 432px;
+    height: 657px;
+    z-index: 3;
+    position: absolute;
+    top: 131px;
+    left: 200px;
+    transition: all 1s ease-in;
+}
+
+.card:hover {
+    left: 650px;
+    transform: rotate(40deg);
+}
+
+.screen {
+    width: 1241px;
+    height: 698px;
+    position: absolute;
+    top: 0px;
+    right: -167px;
+}
+
+/* what to play */
+
+.what-to-play {
+    height: calc(100vw * (2593 / 1920));
+}
+
+.dice-1 {
+    width: 295px;
+    height: 304px;
+    position: absolute;
+    top: 275px;
+    left: 38px;
+    animation-name: dice-1;
+    animation-duration: 1s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+}
+
+.dice-1:hover {
+    animation-duration: 0.2s; 
+}
+
+.dice-2 {
+    width: 340px;
+    height: 276px;
+    position: absolute;
+    top: 632px;
+    left: 128px;
+    animation-name: dice-2;
+    animation-duration: 1s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+}
+
+.dice-2:hover {
+    animation-duration: 0.2s; 
+}
+
+.what-to-play-rect {
+    z-index: 0;
+    position: absolute;
+    top: -163px;
+    right: 0px;
+}
+
+.what-to-play-text {
+    width: 1359px;
+    height: 390px;
+    font-size: 160px;
+    font-weight: 700;
+    line-height: normal;
+    z-index: 1;
+    position: absolute;
+    top: 193px;
+    right: -34px;
+}
+
+.dice-3 {
+    width: 317.087px;
+    height: 318.991px;
+    position:  absolute;
+    top: 747px;
+    left: 741px;
+    animation-name: dice-3;
+    animation-duration: 1s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+}
+
+.dice-3:hover {
+    animation-duration: 0.2s; 
+}
+
+.dice-4 {
+    width: 231px;
+    height: 229px;
+    position: absolute;
+    top: 1110px;
+    right: 618px;
+    animation-name: dice-4;
+    animation-duration: 1s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+}
+
+.dice-4:hover {
+    animation-duration: 0.2s; 
+}
+
+.inner {
+    width: 526px;
+    height: 527px;
+    z-index: 1;
+    position: absolute;
+    top: 722px;
+    right: 39px;
+    animation-name: rotation1;
+    animation-duration: 4s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.outer {
+    width: 520px;
+    height: 521px;
+    z-index: 0;
+    position: absolute;
+    top: 722px;
+    right: 39px;
+    animation-name: rotation2;
+    animation-duration: 2s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.inner:hover {
+    animation-duration: 0.5s;
+}
+
+.outer:hover {
+    animation-duration: 0.5s;
+}
+
+.inner-2 {
+    width: 777px;
+    height: 778px;
+    z-index: 1;
+    position:  absolute;
+    top: 1119px;
+    left: 50px;
+    animation-name: rotation2;
+    animation-duration: 4s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.outer-2 {
+    width: 783px;
+    height: 787px;
+    z-index: 0;
+    position:  absolute;
+    top: 1119px;
+    left: 50px;
+    animation-name: rotation1;
+    animation-duration: 2s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.inner-2:hover {
+    animation-duration: 0.5s;
+}
+
+.outer-2:hover {
+    animation-duration: 0.5s;
+}
+
+.table {
+    width: 1440.536px;
+    height: 1440.536px;
+    z-index: 0;
+    position: absolute;
+    top: 1249px;
+    right: -266.54px;
+    animation-name: table-rotation;
+    animation-duration: 8s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.chip {
+    width: 1022.059px;
+    height: 1006px;
+    z-index: 1;
+    position:  absolute;
+    top: 1313px;
+    right: -282.06px;
+    animation-name: chip-rotation;
+    animation-duration: 4s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.dice-5 {
+    width: 353px;
+    height: 346px;
+    position: absolute;
+    top: 1816px;
+    left: 21px;
+    animation-name: dice-5;
+    animation-duration: 1s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+}
+
+.dice-5:hover {
+    animation-duration: 0.2s; 
+}
+
+.dice-6 {
+    width: 391px;
+    height: 407px;
+    position: absolute;
+    top: 2115px;
+    left: 449px;
+    animation-name: dice-1;
+    animation-duration: 1s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+}
+
+.dice-6:hover {
+    animation-duration: 0.2s; 
+}
+
+/* hands */
+
+.hands {
+    height: calc(100vw * (1559 / 1920));
+}
+
+.rectangle-2 {
+    z-index: 0;
+    position: absolute;
+    top: 0;
+}
+
+.under-hands {
+    width: 682px;
+    height: 877px;
+    color: #000;
+    font-size: 39px;
+    font-weight: 700;
+    z-index: 1;
+    position: absolute;
+    top: 239px;
+    left: 20px;
+}
+
+.hands-img {
+    z-index: 2;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all 1s ease-in;
+}
+
+.hands-img:active {
+    left: -1160px;
+}
+
+.dice-7 {
+    position: absolute;
+    top: 201px;
+    right: 478px;
+    animation-name: dice-7;
+    animation-duration: 1s; 
+    animation-iteration-count: infinite;
+    animation-timing-function:cubic-bezier(1, 0.5, 0.5, 1);
+    animation-direction: alternate;
+}
+
+.dice-8 {
+    position: absolute;
+    top: 995px;
+    right: 71px;
+    animation-name: dice-8;
+    animation-duration: 1s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: cubic-bezier(1, 0.5, 0.5, 1);
+    animation-direction: alternate;
+}
+
+/* slot-machine */
+
+.slot-machine {
+    height: calc(100vw * (1615 / 1920));
+}
+
+.lever-left {
+    width: 1435.346px;
+    height: 1431.265px;
+    transform: rotate(10.849deg);
+    flex-shrink: 0;
+    z-index: 1;
+    position: absolute;
+    top: 0px;
+    left: -800px;
+    animation-name: lever-left;
+    animation-duration: 5s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+}
+
+.lever-right {
+    width: 1435.346px;
+    height: 1431.265px;
+    transform: rotate(-45deg);
+    flex-shrink: 0;
+    z-index: 1;
+    position: absolute;
+    top: 0px;
+    right: -800px;
+    animation-name: lever-right;
+    animation-duration: 5s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+}
+
+.green {
+    z-index: 0;
+    position: relative;
+    top: 826px;
+    animation-name: greenmove;
+    animation-duration: 3s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: normal;
+    flex-shrink: 0;
+}
+
+.white {
+    z-index: 0;
+    position: relative;
+    top: 1002px;
+    animation-name: whitemove;
+    animation-duration: 3s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: normal;
+}
+
+.slot-machine-ad {
+    width: 675px;
+    height: 468px;
+    position: absolute;
+    bottom: 474px;
+    z-index: 3;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.rectangle-3 {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    z-index: 0;
+}
+
+.machine-text {
+    width: 613px;
+    height: 407px;
+    color: #000;
+    font-size: 39px;
+    font-weight: 700;
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+    z-index: 1;
+}
+
+.stool {
+    width: 264px;
+    height: 497px;
+    position: absolute;
+    z-index: 2;
+    top: 131px;
+    left: -52px;
+    transition: all 1s ease-in;
+}
+
+.slot-machine-ad:hover .stool {
+    left: -500px;
+}
+
+.machine {
+    width: 607px;
+    height: 1399px;
+    position: absolute;
+    z-index: 2;
+    bottom: -160px;
+    right: -112px;
+    transition: all 1s ease-in;
+}
+
+.slot-machine-ad:hover .machine {
+    right: -500px;
+}
+
+/* bingo */
+
+.bingo {
+    height: calc(100vw * (2302 / 1920));
+    width: calc(100vw * (1670 / 1920));;
+    background-image: url('../img/bingo.png');
+    background-size: cover;
+    z-index: 0;
+    background-repeat: no-repeat;
+}
+
+.green-chip {
+    width: 275px;
+    height: 275px;
+    position: absolute;
+    opacity: 0%;
+    transition: all 1s ease-in;
+}
+
+.green-chip:hover {
+    opacity: 100%;
+}
+
+.bingo-chip {
+    top: 369px;
+    left: 677px;
+}
+
+.bingo-chip-2 {
+    top: 706px;
+    left: 69px;
+}
+
+.bingo-chip-3 {
+    top: 1007px;
+    right: 393px;
+}
+
+.bingo-chip-4 {
+    bottom: 429px;
+    left: 677px;
+}
+
+.bingo-text {
+    width: 746px;
+    height: 192px;
+    color: #000;
+    font-size: 48px;
+    font-weight: 700;
+    position: absolute;
+    bottom: 150px;
+    left: 193px;
+}
+

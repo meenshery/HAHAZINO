@@ -1,0 +1,1918 @@
+/* 1680 для хрома :( */
+@media screen and (max-width: 1681px) {
+   .container {
+       max-width: 1680px;
+   }
+   .cover {
+      height: calc(100vw * (951 / 1680));
+  }
+  .logo {
+   width: 89px;
+  }
+  h1 {
+   font-size: calc(310*(100vw / 1680));
+  }
+  h3 {
+   width: 244px;
+   right: -19px;
+  }
+  .man {
+   height: 541px;
+   width: 811px;
+   right: 49px;
+   }
+   .eye-1 {
+   width: 120.524px;
+   height: 111.512px;
+   bottom: 291.7px;
+   right: 453.81px;
+   }
+   .eye-2 {
+   width: 148.683px;
+   height: 114.892px;
+   bottom: 273.18px;
+   right: 285.7px;
+   }
+   .nose {
+   width: 119px;
+   height: 167px;
+   bottom: 240px;
+   right: 386px;
+   }
+   .smile {
+   width: 190.36px;
+   height: 172.337px;
+   bottom: 114.01px;
+   right: 332.86px;
+   }
+   .about {
+   height: calc(100vw * (883 / 1680));
+   }
+   .checked {
+   width: 885px;
+   height: 753px;
+   left: -206px;
+   }
+   .rectangle-1 {
+   width: 399px;
+   height: 576px;
+   top: 67px;
+   left: 20px;
+   }
+   .under-card {
+   width: 383px;
+   height: 513px;
+   font-size: 27px;
+   top: 111px;
+   left: 35px;
+   }
+   .card {
+   width: 368px;
+   height: 560px;
+   top: 148px;
+   left: 90px;
+   }
+   .screen {
+   width: 1081px;
+   height: 608px;
+   right: -256px;
+   }
+   .what-to-play {
+   height: calc(100vw * (1919 / 1680));
+   }
+   .dice-1 {
+   width: 206px;
+   height: 213px;
+   top: 191px;
+   left: 61px;
+   }
+   .dice-2 {
+   width: 222.641px;
+   height: 180.732px;
+   top: 422.4px;
+   left: 139px;
+   }
+   .what-to-play-rect {
+   width: 998px;
+   height: 802px;
+   top: -93px;
+   right: 0px;
+   }
+   .what-to-play-text {
+   width: 932px;
+   height: 320px;
+   font-size: 115px;
+   top: 137px;
+   right: 16px;
+   }
+   .dice-3 {
+   width: 222.519px;
+   height: 223.856px;
+   top: 568px;
+   left: 810px;
+   }
+   .dice-4 {
+   width: 184px;
+   height: 183px;
+   top: 860px;
+   right: 412px;
+   }
+   .inner {
+   width: 412px;
+   height: 412.783px;
+   top: 543px;
+   right: 0;
+   }
+   .outer {
+   width: 407.3px;
+   height: 408.084px;
+   top: 543px;
+   right: 0;
+   }
+   .inner-2 {
+   width: 619px;
+   height: 622.162px;
+   top: 827px;
+   left: 0px;
+   }
+   .outer-2 {
+   width: 614.257px;
+   height: 615.047px;
+   top: 827px;
+   left: 0px;
+   }
+   .table {
+   width: 880.436px;
+   height: 880.436px;
+   top: 951px;
+   right: -274px;
+   }
+   .chip {
+   width: 706.041px;
+   height: 706.041px;
+   top: 1002.23px;
+   right: -286.42px;
+   }
+   .dice-5 {
+   width: 247.722px;
+   height: 242.809px;
+   top: 1405px;
+   left: 8px;
+   }
+   .dice-6 {
+   width: 256.037px;
+   height: 266.514px;
+   top: 1553px;
+   left: 411px;
+   }
+   .hands {
+   height: calc(100vw * (1351 / 1680));
+   }
+   .rectangle-2 {
+   width: 1076px;
+   height: 1017px;
+  }
+   .under-hands {
+   width: 561px;
+   height: 751px;
+   font-size: 32px;
+   top: 182px;
+   left: 28px;
+   }
+   .hands-img {
+   width: 1080px;
+   height: 1232px;
+   }
+   .dice-7 {
+   width: 190px;
+   height: 174px;
+   right: 248px;
+   }
+   .dice-8 {
+   width: 200px;
+   height: 188px;
+   right: 29px;
+   }
+   .slot-machine {
+   height: calc(100vw * (1353 / 1680));
+   }
+   .lever-left {
+   width: 1100.649px;
+   height: 1097.519px;
+   left: -631px;
+   }
+   .lever-right {
+   width: 1100.649px;
+   height: 1097.519px;
+   right: -631px;
+   }
+   .green {
+   top: 668px;
+   }
+   .white {
+   top: 744px;
+   }
+   .slot-machine-ad {
+   width: 618px;
+   height: 429px;
+   bottom: 233px;
+   }
+   .machine-text {
+   width: 562px;
+   height: 373px;
+   font-size: 36px;
+   }
+   .stool {
+   width: 225px;
+   height: 426px;
+   }
+   .machine {
+   width: 518px;
+   height: 1195px;
+   }
+   .bingo {
+   height: calc(100vw * (1785 / 1680));
+   width: calc(100vw * (1295 / 1680));;
+   }
+.green-chip {
+   width: 213px;
+   height: 213px;
+}
+.bingo-chip {
+   top: 273px;
+   left: 475px;
+}
+.bingo-chip-2 {
+   top: 500px;
+   left: 40px;
+}
+.bingo-chip-3 {
+   top: 711px;
+   right: 275px;
+}
+.bingo-chip-4 {
+   bottom: 273px;
+   left: 475px;
+}
+.bingo-text {
+   width: 791px;
+   height: 192px;
+   bottom: 75px;
+   left: 59px;
+}
+}
+
+/* 1440 */
+@media screen and (max-width: 1441px) {
+   .container {
+       max-width: 1440px;
+   }
+   .cover {
+      height: calc(100vw * (951 / 1440));
+  }
+  .logo {
+   width: 89px;
+  }
+  h1 {
+   font-size: calc(270*(100vw / 1440));
+  }
+  h3 {
+   width: 244px;
+   right: -19px;
+  }
+  .man {
+   height: 541px;
+   width: 811px;
+   right: 49px;
+   }
+   .eye-1 {
+   width: 120.524px;
+   height: 111.512px;
+   bottom: 291.7px;
+   right: 453.81px;
+   }
+   .eye-2 {
+   width: 148.683px;
+   height: 114.892px;
+   bottom: 273.18px;
+   right: 285.7px;
+   }
+   .nose {
+   width: 119px;
+   height: 167px;
+   bottom: 240px;
+   right: 386px;
+   }
+   .smile {
+   width: 190.36px;
+   height: 172.337px;
+   bottom: 114.01px;
+   right: 332.86px;
+   }
+   .about {
+   height: calc(100vw * (753 / 1440));
+   }
+   .checked {
+   width: 885px;
+   height: 753px;
+   left: -303px;
+   }
+   .rectangle-1 {
+   width: 399px;
+   height: 576px;
+   top: 67px;
+   left: 20px;
+   }
+   .under-card {
+   width: 383px;
+   height: 513px;
+   font-size: 27px;
+   top: 111px;
+   left: 35px;
+   }
+   .card {
+   width: 368px;
+   height: 560px;
+   top: 148px;
+   left: 90px;
+   }
+   .screen {
+   width: 1081px;
+   height: 608px;
+   right: -256px;
+   }
+   .what-to-play {
+   height: calc(100vw * (1919 / 1440));
+   }
+   .dice-1 {
+   width: 206px;
+   height: 213px;
+   top: 191px;
+   left: 61px;
+   }
+   .dice-2 {
+   width: 222.641px;
+   height: 180.732px;
+   top: 422.4px;
+   left: 139px;
+   }
+   .what-to-play-rect {
+   width: 998px;
+   height: 802px;
+   top: -93px;
+   right: 0px;
+   }
+   .what-to-play-text {
+   width: 932px;
+   height: 320px;
+   font-size: 115px;
+   top: 137px;
+   right: 16px;
+   }
+   .dice-3 {
+   width: 222.519px;
+   height: 223.856px;
+   top: 568px;
+   left: 590px;
+   }
+   .dice-4 {
+   width: 184px;
+   height: 183px;
+   top: 860px;
+   right: 412px;
+   }
+   .inner {
+   width: 412px;
+   height: 412.783px;
+   top: 543px;
+   right: 0;
+   }
+   .outer {
+   width: 407.3px;
+   height: 408.084px;
+   top: 543px;
+   right: 0;
+   }
+   .inner-2 {
+   width: 619px;
+   height: 622.162px;
+   top: 827px;
+   left: 0px;
+   }
+   .outer-2 {
+   width: 614.257px;
+   height: 615.047px;
+   top: 827px;
+   left: 0px;
+   }
+   .table {
+   width: 880.436px;
+   height: 880.436px;
+   top: 951px;
+   right: -274px;
+   }
+   .chip {
+   width: 706.041px;
+   height: 706.041px;
+   top: 1002.23px;
+   right: -286.42px;
+   }
+   .dice-5 {
+   width: 247.722px;
+   height: 242.809px;
+   top: 1405px;
+   left: 8px;
+   }
+   .dice-6 {
+   width: 256.037px;
+   height: 266.514px;
+   top: 1677px;
+   left: 411px;
+   }
+   .hands {
+   height: calc(100vw * (1351 / 1440));
+   }
+   .rectangle-2 {
+   width: 1076px;
+   height: 1017px;
+  }
+   .under-hands {
+   width: 561px;
+   height: 751px;
+   font-size: 32px;
+   top: 182px;
+   left: 28px;
+   }
+   .hands-img {
+   width: 1080px;
+   height: 1232px;
+   }
+   .dice-7 {
+   width: 190px;
+   height: 174px;
+   right: 248px;
+   }
+   .dice-8 {
+   width: 200px;
+   height: 188px;
+   right: 29px;
+   }
+   .slot-machine {
+   height: calc(100vw * (1353 / 1440));
+   }
+   .lever-left {
+   width: 1100.649px;
+   height: 1097.519px;
+   left: -631px;
+   }
+   .lever-right {
+   width: 1100.649px;
+   height: 1097.519px;
+   right: -631px;
+   }
+   .green {
+   top: 768px;
+   }
+   .white {
+   top: 944px;
+   }
+   .slot-machine-ad {
+   width: 618px;
+   height: 429px;
+   bottom: 233px;
+   }
+   .machine-text {
+   width: 562px;
+   height: 373px;
+   font-size: 36px;
+   }
+   .stool {
+   width: 225px;
+   height: 426px;
+   }
+   .machine {
+   width: 518px;
+   height: 1195px;
+   }
+   .bingo {
+   height: calc(100vw * (1785 / 1440));
+   width: calc(100vw * (1295 / 1440));;
+   }
+.green-chip {
+   width: 213px;
+   height: 213px;
+}
+.bingo-chip {
+   top: 302px;
+   left: 525px;
+}
+.bingo-chip-2 {
+   top: 547px;
+   left: 46px;
+}
+.bingo-chip-3 {
+   top: 781px;
+   right: 304px;
+}
+.bingo-chip-4 {
+   bottom: 333px;
+   left: 525px;
+}
+.bingo-text {
+   width: 791px;
+   height: 192px;
+   bottom: 92px;
+   left: 59px;
+}
+}
+
+/* 1366 */
+
+@media screen and (max-width: 1367px) {
+   .container {
+       max-width: 1366px;
+   }
+   .cover {
+      height: calc(100vw * (901 / 1366));
+  }
+  .logo {
+   width: 83px;
+  }
+  h1 {
+   font-size: calc(260*(100vw / 1366));
+  }
+  h3 {
+   width: 227px;
+   right: -23px;
+  }
+  .man {
+   height: 494px;
+   width: 741px;
+   right: 57px;
+   }
+   .eye-1 {
+   width: 110.121px;
+   height: 101.887px;
+   bottom: 266.52px;
+   right: 426.87px;
+   }
+   .eye-2 {
+   width: 135.85px;
+   height: 104.975px;
+   bottom: 249.6px;
+   right: 273.27px;
+   }
+   .nose {
+   width: 109px;
+   height: 153px;
+   bottom: 216px;
+   right: 365px;
+   }
+   .smile {
+   width: 173.929px;
+   height: 157.462px;
+   bottom: 105.74px;
+   right: 316.36px;
+   }
+   .about {
+   height: calc(100vw * (635 / 1366));
+   }
+   .checked {
+   width: 746px;
+   height: 635px;
+   left: -197px;
+   }
+   .rectangle-1 {
+   width: 336px;
+   height: 486px;
+   top: 57px;
+   left: 69px;
+   }
+   .under-card {
+   width: 323px;
+   height: 432px;
+   font-size: 22px;
+   top: 102px;
+   left: 76px;
+   }
+   .card {
+   width: 310px;
+   height: 472px;
+   top: 126px;
+   left: 138px;
+   }
+   .screen {
+   width: 928px;
+   height: 522px;
+   right: -160px;
+   }
+   .what-to-play {
+   height: calc(100vw * (1735 / 1366));
+   }
+   .dice-1 {
+   width: 191px;
+   height: 197px;
+   top: 180px;
+   left: 63px;
+   }
+   .dice-2 {
+   width: 222.641px;
+   height: 180.732px;
+   top: 422.4px;
+   left: 139px;
+   }
+   .what-to-play-rect {
+   width: 960px;
+   height: 774px;
+   top: -111px;
+   right: 0px;
+   }
+   .what-to-play-text {
+   width: 890px;
+   height: 322px;
+   font-size: 110px;
+   top: 111px;
+   right: 22px;
+   }
+   .dice-3 {
+   width: 191px;
+   height: 192.147px;
+   top: 542px;
+   left: 568px;
+   }
+   .dice-4 {
+   width: 184px;
+   height: 183px;
+   top: 796px;
+   right: 380px;
+   }
+   .inner {
+   width: 390.828px;
+   height: 391.571px;
+   top: 500px;
+   right: 0;
+   }
+   .outer {
+   width: 386.37px;
+   height: 387.113px;
+   top: 500px;
+   right: 0;
+   }
+   .inner-2 {
+   width: 587.19px;
+   height: 590.19px;
+   top: 770px;
+   left: 0px;
+   }
+   .outer-2 {
+   width: 582.691px;
+   height: 583.441px;
+   top: 770px;
+   left: 0px;
+   }
+   .table {
+   width: 702.926px;
+   height: 702.926px;
+   top: 887px;
+   right: -171.54px;
+   }
+   .chip {
+   width: 563.691px;
+   height: 563.691px;
+   top: 927.9px;
+   right: -171.54px;
+   }
+   .dice-5 {
+   width: 191px;
+   height: 187.212px;
+   top: 1307px;
+   left: 6px;
+   }
+   .dice-6 {
+   width: 256.037px;
+   height: 266.514px;
+   top: 1439px;
+   left: 435px;
+   }
+   .hands {
+   height: calc(100vw * (1300 / 1366));
+   }
+   .rectangle-2 {
+   width: 1076px;
+   height: 1017px;
+  }
+   .under-hands {
+   width: 561px;
+   height: 751px;
+   font-size: 32px;
+   top: 182px;
+   left: 28px;
+   }
+   .hands-img {
+   width: 1080px;
+   height: 1099px;
+   }
+   .dice-7 {
+   width: 190px;
+   height: 174px;
+   right: 192px;
+   }
+   .dice-8 {
+   width: 200px;
+   height: 188px;
+   right: 1px;
+   }
+   .slot-machine {
+   height: calc(100vw * (1382 / 1366));
+   }
+   .lever-left {
+   width: 1065.349px;
+   height: 1062.32px;
+   left: -631px;
+   }
+   .lever-right {
+   width: 1065.349px;
+   height: 1062.32px;
+   right: -631px;
+   }
+   .green {
+   top: 832px;
+   }
+   .white {
+   top: 1008px;
+   }
+   .slot-machine-ad {
+   width: 618px;
+   height: 429px;
+   bottom: 194px;
+   }
+   .machine-text {
+   width: 562px;
+   height: 373px;
+   font-size: 36px;
+   }
+   .stool {
+   width: 225px;
+   height: 426px;
+   }
+   .machine {
+   width: 518px;
+   height: 1195px;
+   }
+   .bingo {
+   height: calc(100vw * (1683 / 1366));
+   width: calc(100vw * (1221 / 1366));;
+   }
+   .green-chip {
+   width: 201px;
+   height: 201px;
+   }
+   .bingo-chip {
+   top: 284px;
+   left: 495px;
+   }
+   .bingo-chip-2 {
+   top: 516px;
+   left: 43px;
+   }
+   .bingo-chip-3 {
+   top: 736px;
+   right: 287px;
+   }
+   .bingo-chip-4 {
+   bottom: 314px;
+   left: 495px;
+   }  
+   .bingo-text {
+   width: 782px;
+   height: 192px;
+   bottom: 76px;
+   left: 54px;
+   }
+   }
+   
+
+   /* 1280 */
+
+   @media screen and (max-width: 1281px) {
+      .container {
+          max-width: 1280px;
+      }
+      .cover {
+         height: calc(100vw * (844 / 1280));
+     }
+     .logo {
+      width: 77px;
+     }
+     h1 {
+      font-size: calc(240*(100vw / 1280));
+     }
+     h3 {
+      width: 220px;
+      height: 60px;
+      right: 16px;
+     }
+     .man {
+      width: 720px;
+      height: 480px;
+      right: 47px;
+      }
+      .eye-1 {
+      width: 107px;
+      height: 99px;
+      bottom: 258.97px;
+      right: 406.38px;
+      }
+      .eye-2 {
+      width: 132px;
+      height: 102px;
+      bottom: 242.53px;
+      right: 257.14px;
+      }
+      .nose {
+      width: 106px;
+      height: 148px;
+      bottom: 213px;
+      right: 346px;
+      }
+      .smile {
+      width: 169px;
+      height: 153px;
+      bottom: 105.65px;
+      right: 299.01px;
+      }
+      .about {
+      height: calc(100vw * (599 / 1280));
+      }
+      .checked {
+      width: 704px;
+      height: 599px;
+      left: -191px;
+      }
+      .rectangle-1 {
+      width: 317px;
+      height: 458px;
+      top: 54px;
+      left: 66px;
+      }
+      .under-card {
+      width: 305px;
+      height: 408px;
+      font-size: 21px;
+      top: 88px;
+      left: 66px;
+      }
+      .card {
+      width: 292px;
+      height: 445px;
+      top: 111px;
+      left: 132px;
+      }
+      .screen {
+      width: 840px;
+      height: 472px;
+      right: -110px;
+      }
+      .what-to-play {
+      height: calc(100vw * (1660 / 1280));
+      }
+      .dice-1 {
+      width: 180px;
+      height: 186px;
+      top: 107px;
+      left: 63px;
+      }
+      .dice-2 {
+      width: 204.864px;
+      height: 166.301px;
+      top: 291px;
+      left: 172px;
+      }
+      .what-to-play-rect {
+      width: 900px;
+      height: 723px;
+      top: -130px;
+      right: 0px;
+      }
+      .what-to-play-text {
+      width: 871px;
+      height: 301px;
+      font-size: 105px;
+      top: 87px;
+      right: -10px;
+      }
+      .dice-3 {
+      width: 179.878px;
+      height: 180.958px;
+      top: 456px;
+      left: 511px;
+      }
+      .dice-4 {
+      width: 169px;
+      height: 168px;
+      top: 702px;
+      right: 378px;
+      }
+      .inner {
+      width: 356.183px;
+      height: 356.86px;
+      top: 452px;
+      right: 0;
+      }
+      .outer {
+      width: 352.12px;
+      height: 352.797px;
+      top: 452px;
+      right: 0;
+      }
+      .inner-2 {
+      width: 562.581px;
+      height: 565.455px;
+      top: 725.25px;
+      left: 0px;
+      }
+      .outer-2 {
+      width: 558.27px;
+      height: 558.988px;
+      top: 725.25px;
+      left: 0px;
+      }
+      .table {
+      width: 702.926px;
+      height: 702.926px;
+      top: 797px;
+      right: -180.54px;
+      }
+      .chip {
+      width: 563.691px;
+      height: 563.691px;
+      top: 837.9px;
+      right: -190.46px;
+      }
+      .dice-5 {
+      width: 179.878px;
+      height: 176.311px;
+      top: 1235px;
+      left: -9px;
+      }
+      .dice-6 {
+      width: 235.593px;
+      height: 245.234px;
+      top: 1389px;
+      left: 407px;
+      }
+      .hands {
+      height: calc(100vw * (1250 / 1280));
+      }
+      .rectangle-2 {
+      width: 1076px;
+      height: 1017px;
+     }
+      .under-hands {
+      width: 561px;
+      height: 751px;
+      font-size: 32px;
+      top: 182px;
+      left: 28px;
+      }
+      .hands-img {
+      width: 1085px;
+      height: 1143px;
+      }
+      .dice-7 {
+      width: 175px;
+      height: 160px;
+      right: 141px;
+      }
+      .dice-8 {
+      width: 184px;
+      height: 173px;
+      right: -6px;
+      }
+      .slot-machine {
+      height: calc(100vw * (1100 / 1280));
+      }
+      .lever-left {
+      width: 1055px;
+      height: 1052px;
+      left: -631px;
+      }
+      .lever-right {
+      width: 1055px;
+      height: 1052px;
+      right: -631px;
+      }
+      .green {
+      top: 538px;
+      }
+      .white {
+      top: 714px;
+      }
+      .slot-machine-ad {
+      width: 471px;
+      height: 327px;
+      bottom: 234px;
+      }
+      .machine-text {
+      width: 429px;
+      height: 284px;
+      font-size: 27px;
+      }
+      .stool {
+      width: 172px;
+      height: 325px;
+      }
+      .machine {
+      width: 395px;
+      height: 911px;
+      }
+      .bingo {
+      height: calc(100vw * (1611 / 1280));
+      width: calc(100vw * (1169 / 1280));;
+      }
+      .green-chip {
+      width: 192px;
+      height: 192px;
+      }
+      .bingo-chip {
+      top: 272px;
+      left: 474px;
+      }
+      .bingo-chip-2 {
+      top: 494px;
+      left: 41px;
+      }
+      .bingo-chip-3 {
+      top: 705px;
+      right: 275px;
+      }
+      .bingo-chip-4 {
+      bottom: 300px;
+      left: 474px;
+      }  
+      .bingo-text {
+      width: 748px;
+      height: 192px;
+      bottom: 64px;
+      left: 52px;
+      }
+      }
+
+   /* 1024 */
+
+   @media screen and (max-width: 1025px) {
+      .container {
+          max-width: 1024px;
+      }
+      .cover {
+         height: calc(100vw * (675 / 1024));
+     }
+     .logo {
+      width: 60px;
+     }
+     h1 {
+      font-size: calc(195*(100vw / 1024));
+     }
+     h3 {
+      width: 163px;
+      height: 68px;
+      font-size: 15px;
+      right: 16px;
+     }
+     .man {
+      width: 636px;
+      height: 424px;
+      right: 33px;
+      }
+      .eye-1 {
+      width: 94.577px;
+      height: 87.506px;
+      bottom: 228.9px;
+      right: 350.66px;
+      }
+      .eye-2 {
+      width: 116.674px;
+      height: 90.157px;
+      bottom: 214.37px;
+      right: 218.74px;
+      }
+      .nose {
+      width: 94px;
+      height: 131px;
+      bottom: 188px;
+      right: 297px;
+      }
+      .smile {
+      width: 149.378px;
+      height: 135.236px;
+      bottom: 93.39px;
+      right: 255.75px;
+      }
+      .about {
+      height: calc(100vw * (512 / 1024));
+      }
+      .checked {
+      width: 602px;
+      height: 512px;
+      left: -247px;
+      }
+      .rectangle-1 {
+      width: 272px;
+      height: 392px;
+      top: 60px;
+      left: 21px;
+      }
+      .under-card {
+      width: 260px;
+      height: 348px;
+      font-size: 18px;
+      top: 92px;
+      left: 27px;
+      }
+      .card {
+      width: 251px;
+      height: 381px;
+      top: 114px;
+      left: 79px;
+      }
+      .screen {
+      width: 759px;
+      height: 427px;
+      right: -122px;
+      }
+      .what-to-play {
+      height: calc(100vw * (1480 / 1024));
+      }
+      .dice-1 {
+      width: 141px;
+      height: 146px;
+      top: 89px;
+      left: 27px;
+      }
+      .dice-2 {
+      width: 154.432px;
+      height: 125.362px;
+      top: 275px;
+      left: 97px;
+      }
+      .what-to-play-rect {
+      width: 753px;
+      height: 607px;
+      top: -95px;
+      right: 0px;
+      }
+      .what-to-play-text {
+      width: 725px;
+      height: 253px;
+      font-size: 90px;
+      top: 85px;
+      right: 0px;
+      }
+      .dice-3 {
+      width: 140.911px;
+      height: 141.757px;
+      top: 442px;
+      left: 407px;
+      }
+      .dice-4 {
+      width: 128px;
+      height: 126px;
+      top: 634px;
+      right: 279px;
+      }
+      .inner {
+      width: 299.169px;
+      height: 299.738px;
+      top: 397px;
+      right: -1.14px;
+      }
+      .outer {
+      width: 295.757px;
+      height: 296.326px;
+      top: 397px;
+      right: -1.14px;
+      }
+      .inner-2 {
+      width: 449.48px;
+      height: 451.776px;
+      top: 603.22px;
+      left: -12.64px;
+      }
+      .outer-2 {
+      width: 446.036px;
+      height: 446.61px;
+      top: 603.22px;
+      left: -12.64px;
+      }
+      .table {
+      width: 654.409px;
+      height: 654.409px;
+      top: 693px;
+      right: -219px;
+      }
+      .chip {
+      width: 524.785px;
+      height: 524.785px;
+      top: 761px;
+      right: -228.23px;
+      }
+      .dice-5 {
+      width: 140.911px;
+      height: 138.116px;
+      top: 1072px;
+      left: 9px;
+      }
+      .dice-6 {
+      width: 177.596px;
+      height: 184.864px;
+      top: 1238px;
+      left: 291px;
+      }
+      .hands {
+      height: calc(100vw * (1060 / 1024));
+      }
+      .rectangle-2 {
+      width: 860px;
+      height: 885px;
+     }
+      .under-hands {
+      width: 456px;
+      height: 612px;
+      font-size: 27px;
+      top: 158px;
+      left: 28px;
+      }
+      .hands-img {
+      width: 882px;
+      height: 1050px;
+      }
+      .dice-7 {
+      width: 131px;
+      height: 121px;
+      right: 126px;
+      }
+      .dice-8 {
+      width: 138px;
+      height: 130px;
+      right: 0px;
+      }
+      .slot-machine {
+      height: calc(100vw * (900 / 1024));
+      }
+      .lever-left {
+      width: 770.256px;
+      height: 768.066px;
+      left: -450px;
+      }
+      .lever-right {
+      width: 770.256px;
+      height: 768.066px;
+      right: -450px;
+      }
+      .green {
+      top: 451px;
+      }
+      .white {
+      top: 625px;
+      }
+      .slot-machine-ad {
+      width: 417px;
+      height: 290px;
+      bottom: 133px;
+      }
+      .machine-text {
+      width: 379px;
+      height: 256px;
+      font-size: 24px;
+      }
+      .stool {
+      width: 159px;
+      height: 301px;
+      }
+      .machine {
+      width: 365px;
+      height: 842px;
+      }
+      .bingo {
+      height: calc(100vw * (1293 / 1024));
+      width: calc(100vw * (938 / 1024));;
+      }
+      .green-chip {
+      width: 155px;
+      height: 155px;
+      }
+      .bingo-chip {
+      top: 218px;
+      left: 380px;
+      }
+      .bingo-chip-2 {
+      top: 396px;
+      left: 33px;
+      }
+      .bingo-chip-3 {
+      top: 565px;
+      right: 220px;
+      }
+      .bingo-chip-4 {
+      bottom: 241px;
+      left: 380px;
+      }  
+      .bingo-text {
+      width: 601px;
+      height: 144px;
+      bottom: 62px;
+      left: 41px;
+      }
+      }
+
+
+   /* 768 */
+
+   @media screen and (max-width: 769px) {
+      .container {
+          max-width: 768px;
+      }
+      .cover {
+         height: calc(100vw * (506.625 / 768));
+     }
+     .logo {
+      width: 45px;
+     }
+     h1 {
+      font-size: calc(145*(100vw / 768));
+      right: -11px;
+      left: -11px;
+      bottom: -0.37px;
+     }
+     h3 {
+      width: 122px;
+      height: 51px;
+      font-size: 11px;
+      right: 4px;
+     }
+     .man {
+      width: 586px;
+      height: 391px;
+      right: 91px;
+      }
+      .eye-1 {
+      width: 87.086px;
+      height: 80.575px;
+      bottom: 210.77px;
+      right: 383.5px;
+      }
+      .eye-2 {
+      width: 107.433px;
+      height: 83.017px;
+      bottom: 197.39px;
+      right: 262.03px;
+      }
+      .nose {
+      width: 86px;
+      height: 120px;
+      bottom: 174px;
+      right: 335px;
+      }
+      .smile {
+      width: 137.547px;
+      height: 124.525px;
+      bottom: 85.99px;
+      right: 296.11px;
+      }
+      .about {
+      height: calc(100vw * (1090 / 768));
+      }
+      .checked {
+      width: 885px;
+      height: 753px;
+      top: 331px;
+      left: -58px;
+      right: -59px;
+      }
+      .rectangle-1 {
+      width: 399px;
+      height: 576px;
+      top: 419px;
+      left: 185px;
+      }
+      .under-card {
+      width: 383px;
+      height: 513px;
+      font-size: 27px;
+      top: 462px;
+      left: 193px;
+      }
+      .card {
+      width: 368px;
+      height: 560px;
+      top: 499px;
+      left: 266px;
+      }
+      .card:hover {
+         left: 550px;
+         transform: rotate(15deg);
+     }
+      .screen {
+      position: absolute;
+      width: 521px;
+      height: 293px;
+      right: 118px;
+      }
+      .what-to-play {
+      height: calc(100vw * (1815 / 768));
+      }
+      .dice-1 {
+      width: 113px;
+      height: 117px;
+      top: 25px;
+      left: -4px;
+      }
+      .dice-2 {
+      width: 130.42px;
+      height: 105.87px;
+      top: 142px;
+      left: -4px;
+      }
+      .what-to-play-rect {
+      width: 645px;
+      height: 522px;
+      top: -30px;
+      right: 0px;
+      }
+      .what-to-play-text {
+      width: 570px;
+      height: 186px;
+      font-size: 70px;
+      top: 130px;
+      left: 167px;
+      }
+      .dice-3 {
+      width: 112.985px;
+      height: 113.663px;
+      top: 377px;
+      left: 190px;
+      }
+      .dice-4 {
+      width: 108px;
+      height: 107px;
+      top: 476px;
+      right: 329px;
+      }
+      .inner {
+      width: 332px;
+      height: 332.631px;
+      top: 419px;
+      right: 0px;
+      }
+      .outer {
+      width: 328.213px;
+      height: 328.844px;
+      top: 419px;
+      right: 0px;
+      }
+      .inner-2 {
+      width: 466.434px;
+      height: 468.817px;
+      top: 542px;
+      left: 1px;
+      }
+      .outer-2 {
+      width: 462.86px;
+      height: 463.456px;
+      top: 542px;
+      left: 1px;
+      }
+      .table {
+      width: 863.207px;
+      height: 863.207px;
+      top: 957px;
+      right: 38px;
+      }
+      .chip {
+      width: 594.376px;
+      height: 594.376px;
+      top: 959px;
+      right: -128.67px;
+      }
+      .dice-5 {
+      width: 112.985px;
+      height: 110.744px;
+      top: 776px;
+      left: 619px;
+      }
+      .dice-6 {
+      width: 149.983px;
+      height: 156.12px;
+      top: 953px;
+      left: -32px;
+      }
+      .hands {
+      height: calc(100vw * (1180 / 768));
+      }
+      .rectangle-2 {
+      width: 820px;
+      height: 688px;
+     }
+      .under-hands {
+      width: 484px;
+      height: 449px;
+      font-size: 23px;
+      top: 164px;
+      left: 0px;
+      }
+      .hands-img {
+      width: 767px;
+      height: 813px;
+      }
+      .dice-7 {
+      width: 111px;
+      height: 102px;
+      right: 644px;
+      animation-name: dice-7-ad;
+      }
+      .dice-8 {
+      width: 117px;
+      height: 111px;
+      right: 14px;
+      animation-name: dice-8-ad;
+      }
+      .slot-machine {
+      height: calc(100vw * (778 / 768));
+      }
+      .lever-left {
+      width: 592.963px;
+      height: 591.276px;
+      left: -350px;
+      }
+      .lever-right {
+      width: 592.963px;
+      height: 591.276px;
+      right: -350px;
+      }
+      .green {
+      top: 462px;
+      }
+      .white {
+      top: 540px;
+      }
+      .slot-machine-ad {
+      width: 355px;
+      height: 241px;
+      bottom: 85px;
+      padding: 15px;
+      }
+      .machine-text {
+      width: 351px;
+      height: 256px;
+      font-size: 20px;
+      top: 26px;
+      left: 23px;
+      }
+      .stool {
+      width: 140px;
+      height: 266px;
+      }
+      .machine {
+      width: 322px;
+      height: 744px;
+      }
+      .bingo {
+      height: calc(100vw * (1001 / 768));
+      width: calc(100vw * (726 / 768));;
+      }
+      .green-chip {
+      width: 120px;
+      height: 120px;
+      }
+      .bingo-chip {
+      top: 169px;
+      left: 294px;
+      }
+      .bingo-chip-2 {
+      top: 307px;
+      left: 26px;
+      }
+      .bingo-chip-3 {
+      top: 437px;
+      right: 170px;
+      }
+      .bingo-chip-4 {
+      bottom: 187px;
+      left: 294px;
+      }  
+      .bingo-text {
+      width: 381px;
+      height: 96px;
+      font-size: 24px;
+      bottom: 52px;
+      left: 33px;
+      }
+      }
+
+   /* 414 */
+
+   @media screen and (max-width: 415px) {
+      .container {
+          max-width: 414px;
+      }
+      .cover {
+         height: calc(100vw * (628 / 414));
+         background-image: url(../img/cover-small.png);
+     }
+     .logo {
+      width: 77px;
+      margin-left: 321px;
+     }
+     h1 {
+      font-size: calc(115*(100vw / 414));
+      transform: rotate(90deg);
+      left: -325px;
+      bottom: 205px;
+     }
+     h3 {
+      width: 122px;
+      height: 51px;
+      font-size: 11px;
+      top: 586px;
+      right: 0px;
+      color: black;
+      z-index: 4;
+     }
+     .man {
+      width: 720px;
+      height: 480px;
+      right: -175px;
+      }
+      .eye-1 {
+      width: 107px;
+      height: 99px;
+      bottom: 258.97px;
+      right: 184.38px;
+      }
+      .eye-2 {
+      width: 132px;
+      height: 102px;
+      bottom: 242.53px;
+      right: 35.14px;
+      }
+      .nose {
+      width: 106px;
+      height: 148px;
+      bottom: 213px;
+      right: 124px;
+      }
+      .smile {
+      width: 169px;
+      height: 153px;
+      bottom: 105.65px;
+      right: 77.01px;
+      }
+      .about {
+      height: calc(100vw * (890 / 414));
+      }
+      .checked {
+      width: 623px;
+      height: 530px;
+      top: 266px;
+      left: -28px;
+      right: -26px;
+      }
+      .rectangle-1 {
+      width: 281px;
+      height: 405px;
+      top: 360px;
+      left: 60px;
+      }
+      .under-card {
+      width: 270px;
+      height: 361px;
+      font-size: 19px;
+      top: 382px;
+      left: 70px;
+      }
+      .card {
+      width: 259px;
+      height: 394px;
+      top: 402px;
+      left: 117px;
+      }
+      .card:hover {
+         left: 550px;
+         transform: rotate(15deg);
+     }
+      .screen {
+      position: absolute;
+      width: 476px;
+      height: 267px;
+      right: -32px;
+      }
+      .what-to-play {
+      height: calc(100vw * (1290 / 414));
+      }
+      .dice-1 {
+      width: 113px;
+      height: 117px;
+      top: 232px;
+      left: 135px;
+      }
+      .dice-2 {
+      width: 117.445px;
+      height: 95.338px;
+      top: 267px;
+      left: 5px;
+      }
+      .what-to-play-rect {
+      width: 414px;
+      height: 334px;
+      top: -80px;
+      right: 0px;
+      }
+      .what-to-play-text {
+      width: 366px;
+      height: 110px;
+      font-size: 45px;
+      top: 17px;
+      left: 24px;
+      transform: rotate(0deg);
+      }
+      .dice-3 {
+      width: 112.985px;
+      height: 113.663px;
+      top: 466px;
+      left: 267px;
+      }
+      .dice-4 {
+      width: 97px;
+      height: 96px;
+      top: 694px;
+      right: 293px;
+      }
+      .inner {
+      width: 166px;
+      height: 166.316px;
+      top: 248px;
+      right: 0px;
+      }
+      .outer {
+      width: 164.106px;
+      height: 164.422px;
+      top: 248px;
+      right: 0px;
+      }
+      .inner-2 {
+      width: 249.064px;
+      height: 250.336px;
+      top: 414px;
+      left: 1px;
+      }
+      .outer-2 {
+      width: 247.156px;
+      height: 247.474px;
+      top: 414px;
+      left: 1px;
+      }
+      .table {
+      width: 399.581px;
+      height: 399.581px;
+      top: 733.93px;
+      right: -67.28px;
+      }
+      .chip {
+      width: 333.005px;
+      height: 333.005px;
+      top: 716px;
+      right: -95.67px;
+      }
+      .dice-5 {
+      width: 112.985px;
+      height: 110.744px;
+      top: 1167px;
+      left: 53px;
+      }
+      .dice-6 {
+      width: 135.062px;
+      height: 140.589px;
+      top: 1171px;
+      left: 260px;
+      }
+      .hands {
+      height: calc(100vw * (1115 / 414));
+      }
+      .rectangle-2 {
+      width: 770px;
+      height: 389px;
+      transform: rotate(90deg);
+      top: 350px;
+      left: -200px;
+      filter: blur(4px);
+     }
+      .under-hands {
+      width: 309px;
+      height: 367px;
+      font-size: 17px;
+      top: 200px;
+      left: 37px;
+      }
+      .hands-img {
+      width: 520px;
+      height: 774px;
+      }
+      .dice-7 {
+      width: 100px;
+      height: 91px;
+      right: 299px;
+      animation-name: dice-7-ad-ph;
+      }
+      .dice-8 {
+      width: 106px;
+      height: 99px;
+      right: 10px;
+      animation-name: dice-8-ad-ph;
+      }
+      .slot-machine {
+      height: calc(100vw * (900 / 414));
+      }
+      .lever-left {
+      width: 410.909px;
+      height: 409.741px;
+      left: -240px;
+      }
+      .lever-right {
+      width: 410.909px;
+      height: 409.741px;
+      right: -240px;
+      }
+      .green {
+      top: 335px;
+      }
+      .white {
+      top: 700px;
+      }
+      .slot-machine-ad {
+      width: 355px;
+      height: 241px;
+      bottom: 196px;
+      padding: 15px;
+      }
+      .machine-text {
+      width: 351px;
+      height: 226px;
+      font-size: 20px;
+      top: 26px;
+      left: 23px;
+      }
+      .stool {
+      width: 120px;
+      height: 227px;
+      }
+      .machine {
+      width: 276px;
+      height: 636px;
+      }
+      .bingo {
+      height: calc(100vw * (648.819 / 414));
+      width: calc(100vw * (472.429 / 414));
+      transform: rotate(9deg);
+      top: 90px;
+      left: 40px;
+      }
+      .green-chip {
+      width: 68px;
+      height: 67px;
+      }
+      .bingo-chip {
+      top: 169px;
+      left: 294px;
+      }
+      .bingo-chip-2 {
+      top: 307px;
+      left: 26px;
+      }
+      .bingo-chip-3 {
+      top: 437px;
+      right: 170px;
+      }
+      .bingo-chip-4 {
+      bottom: 187px;
+      left: 294px;
+      }  
+      .bingo-text {
+      width: 254.833px;
+      height: 65.79px;
+      font-size: 16px;
+      bottom: 32px;
+      left: 33px;
+      }
+      }
+      
+      
+      
+      
+   
+      
+      
+   
+      
+   
+
+   
